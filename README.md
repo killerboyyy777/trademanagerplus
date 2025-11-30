@@ -8,6 +8,8 @@
 
 ---
 
+## DISCLAIMER: This Plugin is still far from finished. It does not work yet, is not useable and might break your ASF Installation if used in this State
+
 ## Contact
 
 For business-related questions, you can reach me at:
