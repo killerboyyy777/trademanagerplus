@@ -2,9 +2,9 @@
 
 [![Steam donate](https://img.shields.io/badge/Steam-donate-000000.svg?logo=steam)](https://steamcommunity.com/tradeoffer/new/?partner=1211192445&token=T9Hiu3Oz)
 
-[![BTC donate](https://img.shields.io/badge/BTC-donate-f7931a.svg?logo=bitcoin) bc1qmkv939k2wqsej657cxj25ppwqdh65y2umnv3gg](https://www.blockchain.com/explorer/addresses/btc/bc1qmkv939k2wqsej657cxj25ppwqdh65y2umnv3gg)
-[![LTC donate](https://img.shields.io/badge/LTC-donate-a6a9aa.svg?logo=litecoin) ltc1qjr49nr028mcajlt7prmmnqnjh0552qjj90zdq4](https://live.blockcypher.com/ltc/address/ltc1qjr49nr028mcajlt7prmmnqnjh0552qjj90zdq4)
-[![XMR donate](https://img.shields.io/badge/XMR-donate-FF6600.svg?logo=monero) 82oJRDdiSWWbem3HiYx7ZdDdiPkYQAW4LaGNHpNcJ9DCendQ3XcxHNYQiRMtfghYtSMmARPGqKe2ddSrhtjviTraEyGwgZ2](https://www.exploremonero.com/)
+[![BTC donate](https://img.shields.io/badge/BTC-donate-f7931a.svg?logo=bitcoin)](https://www.blockchain.com/explorer/addresses/btc/bc1qmkv939k2wqsej657cxj25ppwqdh65y2umnv3gg)
+[![LTC donate](https://img.shields.io/badge/LTC-donate-a6a9aa.svg?logo=litecoin)](https://live.blockcypher.com/ltc/address/ltc1qjr49nr028mcajlt7prmmnqnjh0552qjj90zdq4)
+[![XMR donate](https://img.shields.io/badge/XMR-donate-FF6600.svg?logo=monero)](82oJRDdiSWWbem3HiYx7ZdDdiPkYQAW4LaGNHpNcJ9DCendQ3XcxHNYQiRMtfghYtSMmARPGqKe2ddSrhtjviTraEyGwgZ2)
 
 ---
 
